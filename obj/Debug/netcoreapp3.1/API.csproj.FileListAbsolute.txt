@@ -1,0 +1,48 @@
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\MinhTu\source\repos\HTTTKT\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\ExcelFinancialFunctions.dll
+C:\Users\MinhTu\source\repos\HTTTKT\API\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\ExcelFinancialFunctions.dll
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\FSharp.Core.dll
+C:\Users\hoang\OneDrive\Máy tính\API\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\hoang\OneDrive\Máy tính\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
